@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode local user state
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+
+# Build artifacts
+build/
+DerivedData/
+*.dSYM
+*.app
+Pinger-*.app.zip
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Logs
+*.log
